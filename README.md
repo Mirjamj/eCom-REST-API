@@ -9,10 +9,10 @@ A Node.js + Express-based RESTful API that powers the backend of a responsive e-
 - **Environment Variables**: Secure configuration using .env file.
 
 ## Technologies Used
-**Node.js** & Express – Server and routing
-**MongoDB & Mongoose** – Database and models
-**dotenv** – Environment variable handling
-**CORS** – Cross-origin resource sharing support
+- **Node.js** & Express – Server and routing
+- **MongoDB & Mongoose** – Database and models
+- **dotenv** – Environment variable handling
+- **CORS** – Cross-origin resource sharing support
 
 ## Image Disclaimer
 All product images used in this project are borrowed from komplett.se for educational and demonstrational purposes only.
